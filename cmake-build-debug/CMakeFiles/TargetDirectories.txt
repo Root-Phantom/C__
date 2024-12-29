@@ -1,0 +1,3 @@
+/Users/nimashokri/Projects/C++/cmake-build-debug/CMakeFiles/C__.dir
+/Users/nimashokri/Projects/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nimashokri/Projects/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
